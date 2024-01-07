@@ -1,8 +1,8 @@
+//SIMPLE GRADE CALCULATOR BY USING JAVA 
 import java. util.Scanner;
 public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public static void main(String[] args) {
+	
    Scanner inpute= new Scanner(System.in);
      double grade;
      System.out.println("Please Enter The Result Of The Student Out Of 100%");
